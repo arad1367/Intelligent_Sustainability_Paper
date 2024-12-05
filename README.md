@@ -41,6 +41,7 @@ The best performing model (RoBERTa-large-MNLI) is deployed and available at:
 ## Live Demo
 Try the model in action:
 [Crypto Sustainability News Text Classifier](https://huggingface.co/spaces/arad1367/Crypto_Sustainability_News_Text_Classifier)
+![Crypto Sustainability News Classifier Interface](ui.png)
 
 ## Installation
 ```bash
