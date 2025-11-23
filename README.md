@@ -81,7 +81,3 @@ Detailed evaluation metrics and comparative analysis are available in the code.
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## Contact
-**Pejman Ebrahimi**
-- Academic Email: pejman.ebrahimi@uni.li
-- Personal Email: pejman.ebrahimi77@gmail.com
